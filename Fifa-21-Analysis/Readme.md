@@ -19,6 +19,11 @@ This project focuses on data cleaning and exploratory data analysis of FIFA 21 d
 - Pandas
 - Matplotlib
 - Seaborn
+## Visualizations
+![OVA Distribution](images/Overall.png)
+![Club Worth](images/club.png) 
+![Value vs Wage Distribution](images/val vs wage.png)
+
 
 ## Dataset
 FIFA 21 dataset (Kaggle)
