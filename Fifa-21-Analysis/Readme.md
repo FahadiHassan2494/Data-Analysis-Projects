@@ -22,7 +22,7 @@ This project focuses on data cleaning and exploratory data analysis of FIFA 21 d
 ## Visualizations
 ![OVA Distribution](images/Overall.png)
 ![Club Worth](images/club.png) 
-![Value vs Wage Distribution](images/val vs wage.png)
+![Value vs Wage Distribution](images/val_vs_wage.png)
 
 
 ## Dataset
